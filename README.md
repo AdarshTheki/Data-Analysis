@@ -38,3 +38,5 @@ This project is licensed under the **[MIT License](https://opensource.org/licens
 
 ## Conclusion
 This is a general roadmap for a data analysis project. The specific steps and tools used may vary depending on the project and the data being analyzed. The goal of this roadmap is to provide a structure for approaching a data analysis project and ensure that all important aspects are considered.
+
+![my image](./data-analysis/Data_Science_Roadmap_explain.png)
