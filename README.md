@@ -9,18 +9,18 @@
 
 ## Getting Started
 1. Clone the repository to your local machine
-
-      git clone https://github.com/username/repository.git
+``` git clone https://github.com/username/repository.git ```
 
 2. Install the necessary packages
 
-      pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 3. Run the Jupyter notebook or Python script to reproduce the analysis
 
       jupyter notebook analysis.ipynb
 
 4. Tools and Libraries Used
+
 -  Python
 -  Jupyter Notebook
 -  Pandas, Numpy, Matplotlib, Seaborn for data manipulation and visualization
