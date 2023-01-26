@@ -9,17 +9,18 @@
 
 ## Getting Started
 1. Clone the repository to your local machine
-``` git clone https://github.com/username/repository.git ```
+
+      ``` git clone gh repo clone AdarshTheki/Data-Analytics-Rodemaps. ```
 
 2. Install the necessary packages
 
-``` pip install -r requirements.txt ```
+      ``` pip install -r requirements.txt ```
 
 3. Run the Jupyter notebook or Python script to reproduce the analysis
 
-      jupyter notebook analysis.ipynb
+      ```jupyter notebook analysis.ipynb```
 
-4. Tools and Libraries Used
+## Tools and Libraries Used
 
 -  Python
 -  Jupyter Notebook
@@ -30,7 +31,12 @@
 Feel free to open a pull request or an issue if you find any bug or have any suggestions for improvements.
 
 ## Authors
--  Adarsh Verma
+-  **[Adarsh Verma](https://github.com/AdarshTheki/)**
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**
+
+## Conclusion
+This is a general roadmap for a data analysis project. The specific steps and tools used may vary depending on the project and the data being analyzed. The goal of this roadmap is to provide a structure for approaching a data analysis project and ensure that all important aspects are considered.
+
+#0d1117 `#0d1117`
